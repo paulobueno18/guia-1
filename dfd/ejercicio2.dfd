@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+46
+'ingrese el numero de personas que asistieron'
+5
+1
+7
+nPerson
+6
+1
+2
+AM
+23
+(nPerson*(nPerson-1))/2
+4
+1
+41
+'el numero de apretones de manos es: ',AM
+1

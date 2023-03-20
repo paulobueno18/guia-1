@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'escriba en grados sexagesimal'
+5
+1
+6
+Gsexag
+6
+2
+5
+Gcent
+16
+(Gsexag*200)/180
+7
+Gradian
+17
+(Gsexag*3.14)/180
+4
+1
+27
+'grados centesimales',Gcent
+4
+1
+23
+'Grados Radian',Gradian
+1

@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+37
+'Ingrese el lado del primer cuadrado'
+5
+1
+4
+lado
+6
+2
+4
+area
+8
+(lado)^2
+9
+sumatoria
+10
+2*(area)^2
+4
+1
+59
+'La suma de las areas de los cuadrados es: ',sumatoria,'cm'
+1
